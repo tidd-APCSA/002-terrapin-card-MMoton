@@ -33,6 +33,7 @@ public double getBalance(){
 
 
   public String toString(){
+
     return "The card has " + this.balance + " dollars";
   }
 }
